@@ -5,11 +5,11 @@
 invert3d is an isometric puzzle game made for the 2nd 1-BIT jam on itch.io.
 
 # _controls_
-WASD: move around the map
-E: invert colors (maybe you'll find something)
-F: return colors to normal
-left click: interact, attack
-escape: menu
+_WASD: move around the map_
+_E: invert colors (maybe you'll find something)_
+_F: return colors to normal_
+_left click: interact, attack_
+_escape: menu_
 
 # _what is the story?_
 _you have been a happy bean man your whole life, living in a world of green,
